@@ -27,6 +27,7 @@ Navegador ──► React (Vite :5173) ──proxy /api──► Express (:3000)
 13. [Despliegue en Railway](#13-despliegue-en-railway)
 14. [Problemas comunes](#14-problemas-comunes)
 15. [Documentación oficial](#15-documentación-oficial)
+16. [Agradecimientos y créditos](#16-agradecimientos-y-créditos)
 
 ---
 
@@ -423,3 +424,15 @@ Enlaces oficiales de las herramientas usadas en cada punto. La lista se amplía 
 
 - [Conventional Commits](https://www.conventionalcommits.org/es/v1.0.0/)
 - [Git: etiquetado](https://git-scm.com/book/es/v2/Fundamentos-de-Git-Etiquetado)
+
+---
+
+## 16. Agradecimientos y créditos
+
+Este proyecto es una práctica personal que armé siguiendo las clases del **Proyecto con stack PERN** de **Daniel Guerrero**, dentro de la Tecnicatura Universitaria en Programación. Quiero agradecerle por compartir el proyecto y por explicar cada paso de forma clara.
+
+Como base y guía usé su repositorio:
+
+- [DanielGuerrero03/Proyecto-PERN](https://github.com/DanielGuerrero03/Proyecto-PERN)
+
+Todo el crédito de la idea original y de la estructura del proyecto (autenticación y tareas con PostgreSQL, Express, React y Node) es de él. Lo que agregué en este repositorio fue la práctica paso a paso: el uso de **pnpm**, los tests de cada etapa, el historial de commits con tags de versión (`v0.1.0` a `v1.0.0`) y esta documentación.
